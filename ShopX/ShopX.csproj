@@ -93,10 +93,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\MAH02305.jpg" />
+    <None Include="Resources\6aafa168-5125-41dd-9204-5ccbfd2e9f4b.jfif" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\6aafa168-5125-41dd-9204-5ccbfd2e9f4b.jfif" />
+    <Content Include="DatabaseSQL\script.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
