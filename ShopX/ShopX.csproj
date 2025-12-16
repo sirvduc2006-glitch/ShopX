@@ -93,6 +93,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="QueryDocumentation\QueryDocumentation.pdf" />
     <None Include="Resources\6aafa168-5125-41dd-9204-5ccbfd2e9f4b.jfif" />
   </ItemGroup>
   <ItemGroup>
